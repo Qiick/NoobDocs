@@ -1,3 +1,7 @@
+---
+icon: tools
+---
+
 # Hoe gebruik je minions?
 
 !!!warning Deze pagina is nog niet af!
