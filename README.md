@@ -12,7 +12,7 @@ Dit is een website waar je alle informatie kan zien van en over de **NoobNetwork
 
 [!button variant="light" text="Check de server status"](status)
 
-##We hebben ook een trailer.
+## We hebben ook een trailer.
 Kijk hem hier onder.
 
 [!embed](https://youtu.be/b4hb8EESbKo)
