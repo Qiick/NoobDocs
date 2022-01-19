@@ -4,7 +4,7 @@ icon: shield-check
 
 # Update v2.0
 In deze update is er wel wat bij gekomen. 
-Dus hier is een lijstje van walt er bij is gekomen.
+Dus hier is een lijstje van wat er bij is gekomen.
 
 - End open.
 - Nether open.
