@@ -8,4 +8,4 @@ links:
   - text: Discord
     link: https://metzondernoob.nl/discord
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; NoobNetwork {{ year }}"
