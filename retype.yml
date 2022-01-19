@@ -8,4 +8,7 @@ links:
   - text: Discord
     link: https://metzondernoob.nl/discord
 footer:
+  links:
+    - text: Gemaakt door Brian
+      link: https://qiick.xyz
   copyright: "&copy; NoobNetwork {{ year }}"
