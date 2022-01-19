@@ -2,6 +2,9 @@ input: .
 output: .retype
 url: # Add your website address here
 branding:
+  colors:
+    label:
+      text: "#ffbd59"
   title: NoobDocs
   label: door Brian
 links:
