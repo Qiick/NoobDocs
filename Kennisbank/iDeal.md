@@ -1,3 +1,7 @@
+---
+icon: credit-card
+---
+
 # Hoe betaal je met iDeal?
 
  1. Selecteer de rank die je wilt kopen.
