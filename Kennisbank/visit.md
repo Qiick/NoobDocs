@@ -9,11 +9,11 @@ icon: person-add
   
  ## Voorbeeld
 
-![](../static/visit1.png)
+-[](../static/visit1.png)
 
 **Als het werkt wordt de sign groen.**
 
-![](../static/visit2.png)
+-[](../static/visit2.png)
 
 ## Hoe visit je een island?
 Doe `/is visit (username)`
