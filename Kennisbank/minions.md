@@ -26,6 +26,6 @@ Deze tekst is nog niet af.
 Deze tekst is nog niet af.
 ===
 
-=== Staat jouw minion er niet bij of is er geen info over.
+||| Staat jouw minion er niet bij of is er geen info over.
 Maak dan een ticket aan.
-===
+|||
