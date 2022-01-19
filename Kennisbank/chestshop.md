@@ -1,3 +1,7 @@
+---
+icon: archive
+---
+
 # Hoe gebruik je chestshops?
 
  1.  Plaats een kist met het item der in wat je wilt verkopen.
