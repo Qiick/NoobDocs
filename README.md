@@ -1,4 +1,6 @@
+---
 icon: home
+---
 
 # NoobDocs
 
