@@ -1,8 +1,10 @@
 # Hoe betaal je met iDeal?
 
  1. Selecteer de rank die je wilt kopen.
+
 ![](../static/ideal1.png)
- 2. Vul je username in en druk dan op **Add to basket.**
+
+2. Vul je username in en druk dan op **Add to basket.**
  ![Add to basket](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces/ZWTv1nMbCpjV6IrItxJO/uploads/NVDTCSzJPVvmeTy4ptVc/image.png?alt=media&token=300c0bb1-609d-490b-bef8-1db25d6b03b7)
  3. Vul je gegevens ins en druk dan op **Stripe**.
  ![Stripe](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces/ZWTv1nMbCpjV6IrItxJO/uploads/YnB8oJQEQ19dwU97D5KA/image.png?alt=media&token=56306826-5aea-49b7-8237-425576e730f5)
