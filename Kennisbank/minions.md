@@ -11,3 +11,13 @@ Deze website wordt steeds aangevuld met meer informatie.
 
 **De miner minion werkt alleen met een cobblestone generator.**
 ===
+
+==- Farmer minion
+Deze tekst is nog niet af.
+===
+==- Lumberjack minion
+Deze tekst is nog niet af.
+===
+==- Seller minion
+Deze tekst is nog niet af.
+===
