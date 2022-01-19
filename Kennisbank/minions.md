@@ -21,3 +21,7 @@ Deze tekst is nog niet af.
 ==- Seller minion
 Deze tekst is nog niet af.
 ===
+
+=== Staat jouw minion er niet bij of is er geen info over.
+Maak dan een ticket aan.
+===
