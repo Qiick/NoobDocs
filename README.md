@@ -1,3 +1,4 @@
+icon: home
 # NoobDocs
 
 Dit is een website waar je alle informatie kan zien van en over de **NoobNetwork**
