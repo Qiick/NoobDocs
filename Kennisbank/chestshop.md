@@ -14,7 +14,7 @@ icon: archive
 
 ## Voorbeeld.
 
---![](../static/chest1.png)
+![](../static/chest1.png)
 
  - Username = Phoenix616 
  - Aantal = 64 
