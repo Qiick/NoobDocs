@@ -3,7 +3,7 @@ output: .retype
 url: # Add your website address here
 branding:
   title: NoobDocs
-  label: 
+  label: Mogelijk gemaakt door Brian
 links:
   - text: Discord
     link: https://metzondernoob.nl/discord
