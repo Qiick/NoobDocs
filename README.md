@@ -1,1 +1,1 @@
-# sky.mznb.nl
+# Welkom op de skyblock Wiki
