@@ -1,0 +1,54 @@
+site_name: Webserver Templates
+repo_url: https://github.com/Qiick/WebServerTemplates
+repo_name: Qiick/WebServerTemplates
+# Theme Settings
+edit_uri: ""
+theme:
+ features:
+   - navigation.instant
+   - navigation.tabs
+   - content.code.annotate
+   - content.tabs.link
+ name: material
+ # Fonts
+ font:
+   text: Lexend Deca
+ 
+ 
+ # Toggle / Dark <> Light mode
+ palette: 
+  - primary: black
+    accent: blue
+    scheme: slate
+    toggle:
+      icon: material/toggle-switch-off-outline 
+      name: Switch to dark mode
+  - primary: teal
+    accent: teal
+    scheme: default 
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+
+# Plugins 
+plugins:
+  - search
+  - git-revision-date:
+      enabled_if_env: CI
+  - tags:
+      tags_file: category.md
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+ 
